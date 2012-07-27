@@ -1,0 +1,2 @@
+module GnipDataHelper
+end

@@ -1,0 +1,11 @@
+//= require jquery
+//= require jquery_ujs
+//= require underscore
+//= require backbone
+//= require setup
+//= require underscore
+//= require backbone
+//= require backbone_rails_sync
+//= require backbone_datalink
+//= require backbone/pusher
+//= require_tree .
