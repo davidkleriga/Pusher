@@ -1,0 +1,591 @@
+<results data_collector_id="4"  publisher="Vimeo" endpoint="Tag - Search" refreshURL="https://channelsignal.gnip.com/data_collectors/4/activities.xml?since_date=20120730023006">
+<entry xmlns:gnip="http://www.gnip.com/schemas/2010" xmlns="http://www.w3.org/2005/Atom">
+  <id>46467429</id>
+  <published>2012-07-26 22:39:53</published>
+  <updated>2012-07-26 22:39:53</updated>
+  <title type="html">EpicTVAdventure posted a video to Vimeo</title>
+  <category term="VideoPosted" label="Video Posted"/>
+  <summary type="html">Best Outdoor Gear for Spring 2013. Part 3 / 3 - Footwear</summary>
+  <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="alternate" href="http://vimeo.com/46467429" atommedia1:width="1280" atommedia1:height="720" atommedia1:duration="949"/>
+  <source>
+    <link rel="self" href="http://vimeo.com/api/rest/v2?method=vimeo.videos.getByTag&amp;full_response=1&amp;tag=Salomon&amp;sort=newest"/>
+    <title>Vimeo - Tag - Search - Salomon</title>
+    <updated>2012-07-27T17-56-09Z</updated>
+    <gnip:rule xmlns:gnip="http://www.gnip.com/schemas/2010">Salomon</gnip:rule>
+  </source>
+  <service:provider xmlns:service="http://activitystrea.ms/service-provider" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss" xmlns:atommedia="http://purl.org/syndication/atommedia" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:georss="http://www.georss.org/georss" xmlns:gnip="http://www.gnip.com/schemas/2010" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dm="http://www.dailymotion.com/dmrss">
+    <name>Vimeo</name>
+    <uri>http://www.vimeo.com/</uri>
+    <icon/>
+  </service:provider>
+  <activity:verb xmlns:activity="http://activitystrea.ms/spec/1.0/">http://activitystrea.ms/schema/1.0/post</activity:verb>
+  <activity:object xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:object-type>http://activitystrea.ms/schema/1.0/video</activity:object-type>
+    <id>object:46467429</id>
+    <title type="text">Best Outdoor Gear for Spring 2013. Part 3 / 3 - Footwear</title>
+    <content type="html">EpicTV dropped in on the biggest outdoor trade show in Europe to give our viewers a sneak peak at the best climbing, trail running, hiking and camping gear for spring 2013. Part 3 of this 3-part series features footwear. Part 1 is softgoods and Part 2 is hardgoods.</content>
+    <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="alternate" href="http://vimeo.com/46467429" atommedia1:width="1280" atommedia1:height="720" atommedia1:duration="949"/>
+    <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="preview" type="image/jpeg" href="http://b.vimeocdn.com/ts/323/613/323613910_100.jpg" atommedia1:width="100" atommedia1:height="75"/>
+    <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="enclosure" href="http://vimeo.com/moogaloop.swf?clip_id=46467429" atommedia1:duration="949"/>
+    <category term="Salomon"/>
+    <category term="Salewa"/>
+    <category term="La Sportiva"/>
+    <category term="Scott"/>
+    <category term="North Face"/>
+    <category term="Fiveten"/>
+    <category term="Adidas"/>
+    <gnip:statistics xmlns:gnip="http://www.gnip.com/schemas/2010" favoriteCount="2" viewCount="26"/>
+  </activity:object>
+  <author>
+    <name>EpicTVAdventure</name>
+    <uri>http://vimeo.com/epictvadventure</uri>
+  </author>
+  <activity:actor xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+    <link rel="alternate" type="text/html" href="http://vimeo.com/epictvadventure"/>
+    <id>http://vimeo.com/epictvadventure</id>
+  </activity:actor>
+  <gnip:matching_rules>
+    <gnip:matching_rule rel="source">Salomon</gnip:matching_rule>
+  </gnip:matching_rules>
+</entry>
+
+<entry xmlns:gnip="http://www.gnip.com/schemas/2010" xmlns="http://www.w3.org/2005/Atom">
+  <id>46465858</id>
+  <published>2012-07-26 21:56:20</published>
+  <updated>2012-07-26 21:56:20</updated>
+  <title type="html">EpicTVAdventure posted a video to Vimeo</title>
+  <category term="VideoPosted" label="Video Posted"/>
+  <summary type="html">Best Outdoor Gear for Spring 2013. Part 2 / 3 - Hardgoods</summary>
+  <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="alternate" href="http://vimeo.com/46465858" atommedia1:width="1280" atommedia1:height="720" atommedia1:duration="2014"/>
+  <source>
+    <link rel="self" href="http://vimeo.com/api/rest/v2?method=vimeo.videos.getByTag&amp;full_response=1&amp;tag=North%20Face&amp;sort=newest"/>
+    <title>Vimeo - Tag - Search - North Face</title>
+    <updated>2012-07-27T17-08-31Z</updated>
+    <gnip:rule xmlns:gnip="http://www.gnip.com/schemas/2010">North Face</gnip:rule>
+  </source>
+  <service:provider xmlns:service="http://activitystrea.ms/service-provider" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss" xmlns:atommedia="http://purl.org/syndication/atommedia" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:georss="http://www.georss.org/georss" xmlns:gnip="http://www.gnip.com/schemas/2010" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dm="http://www.dailymotion.com/dmrss">
+    <name>Vimeo</name>
+    <uri>http://www.vimeo.com/</uri>
+    <icon/>
+  </service:provider>
+  <activity:verb xmlns:activity="http://activitystrea.ms/spec/1.0/">http://activitystrea.ms/schema/1.0/post</activity:verb>
+  <activity:object xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:object-type>http://activitystrea.ms/schema/1.0/video</activity:object-type>
+    <id>object:46465858</id>
+    <title type="text">Best Outdoor Gear for Spring 2013. Part 2 / 3 - Hardgoods</title>
+    <content type="html">EpicTV dropped in on the biggest outdoor trade show in Europe to give our viewers a sneak peak at the best climbing, trail running, hiking and camping gear for spring 2013. Part 2 of this 3-part series features hardgoods. Part 1 is softgoods and Part 3 will show footwear.</content>
+    <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="alternate" href="http://vimeo.com/46465858" atommedia1:width="1280" atommedia1:height="720" atommedia1:duration="2014"/>
+    <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="preview" type="image/jpeg" href="http://b.vimeocdn.com/ts/323/605/323605797_100.jpg" atommedia1:width="100" atommedia1:height="75"/>
+    <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="enclosure" href="http://vimeo.com/moogaloop.swf?clip_id=46465858" atommedia1:duration="2014"/>
+    <category term="Salomon"/>
+    <category term="Salewa"/>
+    <category term="Soto"/>
+    <category term="Primus"/>
+    <category term="Osprey"/>
+    <category term="Arc'teryx"/>
+    <category term="Black Diamond"/>
+    <category term="Petzl"/>
+    <category term="Sea to Summit"/>
+    <category term="Mammut"/>
+    <category term="Bergans"/>
+    <category term="North Face"/>
+    <category term="Blue Ice"/>
+    <category term="Vaude"/>
+    <gnip:statistics xmlns:gnip="http://www.gnip.com/schemas/2010" favoriteCount="2" viewCount="74"/>
+  </activity:object>
+  <author>
+    <name>EpicTVAdventure</name>
+    <uri>http://vimeo.com/epictvadventure</uri>
+  </author>
+  <activity:actor xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+    <link rel="alternate" type="text/html" href="http://vimeo.com/epictvadventure"/>
+    <id>http://vimeo.com/epictvadventure</id>
+  </activity:actor>
+  <gnip:matching_rules>
+    <gnip:matching_rule rel="source">North Face</gnip:matching_rule>
+  </gnip:matching_rules>
+</entry>
+
+<entry xmlns:gnip="http://www.gnip.com/schemas/2010" xmlns="http://www.w3.org/2005/Atom">
+  <id>46467429</id>
+  <published>2012-07-26 22:39:53</published>
+  <updated>2012-07-26 22:39:53</updated>
+  <title type="html">EpicTVAdventure posted a video to Vimeo</title>
+  <category term="VideoPosted" label="Video Posted"/>
+  <summary type="html">Best Outdoor Gear for Spring 2013. Part 3 / 3 - Footwear</summary>
+  <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="alternate" href="http://vimeo.com/46467429" atommedia1:width="1280" atommedia1:height="720" atommedia1:duration="949"/>
+  <source>
+    <link rel="self" href="http://vimeo.com/api/rest/v2?method=vimeo.videos.getByTag&amp;full_response=1&amp;tag=North%20Face&amp;sort=newest"/>
+    <title>Vimeo - Tag - Search - North Face</title>
+    <updated>2012-07-27T16-18-37Z</updated>
+    <gnip:rule xmlns:gnip="http://www.gnip.com/schemas/2010">North Face</gnip:rule>
+  </source>
+  <service:provider xmlns:service="http://activitystrea.ms/service-provider" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss" xmlns:atommedia="http://purl.org/syndication/atommedia" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:georss="http://www.georss.org/georss" xmlns:gnip="http://www.gnip.com/schemas/2010" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dm="http://www.dailymotion.com/dmrss">
+    <name>Vimeo</name>
+    <uri>http://www.vimeo.com/</uri>
+    <icon/>
+  </service:provider>
+  <activity:verb xmlns:activity="http://activitystrea.ms/spec/1.0/">http://activitystrea.ms/schema/1.0/post</activity:verb>
+  <activity:object xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:object-type>http://activitystrea.ms/schema/1.0/video</activity:object-type>
+    <id>object:46467429</id>
+    <title type="text">Best Outdoor Gear for Spring 2013. Part 3 / 3 - Footwear</title>
+    <content type="html">EpicTV dropped in on the biggest outdoor trade show in Europe to give our viewers a sneak peak at the best climbing, trail running, hiking and camping gear for spring 2013. Part 3 of this 3-part series features footwear. Part 1 is softgoods and Part 2 is hardgoods.</content>
+    <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="alternate" href="http://vimeo.com/46467429" atommedia1:width="1280" atommedia1:height="720" atommedia1:duration="949"/>
+    <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="preview" type="image/jpeg" href="http://b.vimeocdn.com/ts/323/613/323613910_100.jpg" atommedia1:width="100" atommedia1:height="75"/>
+    <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="enclosure" href="http://vimeo.com/moogaloop.swf?clip_id=46467429" atommedia1:duration="949"/>
+    <category term="Salomon"/>
+    <category term="Salewa"/>
+    <category term="La Sportiva"/>
+    <category term="Scott"/>
+    <category term="North Face"/>
+    <category term="Fiveten"/>
+    <category term="Adidas"/>
+    <gnip:statistics xmlns:gnip="http://www.gnip.com/schemas/2010" favoriteCount="2" viewCount="24"/>
+  </activity:object>
+  <author>
+    <name>EpicTVAdventure</name>
+    <uri>http://vimeo.com/epictvadventure</uri>
+  </author>
+  <activity:actor xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+    <link rel="alternate" type="text/html" href="http://vimeo.com/epictvadventure"/>
+    <id>http://vimeo.com/epictvadventure</id>
+  </activity:actor>
+  <gnip:matching_rules>
+    <gnip:matching_rule rel="source">North Face</gnip:matching_rule>
+  </gnip:matching_rules>
+</entry>
+
+<entry xmlns:gnip="http://www.gnip.com/schemas/2010" xmlns="http://www.w3.org/2005/Atom">
+  <id>46465858</id>
+  <published>2012-07-26 21:56:20</published>
+  <updated>2012-07-26 21:56:20</updated>
+  <title type="html">EpicTVAdventure posted a video to Vimeo</title>
+  <category term="VideoPosted" label="Video Posted"/>
+  <summary type="html">Best Outdoor Gear for Spring 2013. Part 2 / 3 - Hardgoods</summary>
+  <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="alternate" href="http://vimeo.com/46465858" atommedia1:width="1280" atommedia1:height="720" atommedia1:duration="2014"/>
+  <source>
+    <link rel="self" href="http://vimeo.com/api/rest/v2?method=vimeo.videos.getByTag&amp;full_response=1&amp;tag=Salomon&amp;sort=newest"/>
+    <title>Vimeo - Tag - Search - Salomon</title>
+    <updated>2012-07-27T15-56-57Z</updated>
+    <gnip:rule xmlns:gnip="http://www.gnip.com/schemas/2010">Salomon</gnip:rule>
+  </source>
+  <service:provider xmlns:service="http://activitystrea.ms/service-provider" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss" xmlns:atommedia="http://purl.org/syndication/atommedia" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:georss="http://www.georss.org/georss" xmlns:gnip="http://www.gnip.com/schemas/2010" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dm="http://www.dailymotion.com/dmrss">
+    <name>Vimeo</name>
+    <uri>http://www.vimeo.com/</uri>
+    <icon/>
+  </service:provider>
+  <activity:verb xmlns:activity="http://activitystrea.ms/spec/1.0/">http://activitystrea.ms/schema/1.0/post</activity:verb>
+  <activity:object xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:object-type>http://activitystrea.ms/schema/1.0/video</activity:object-type>
+    <id>object:46465858</id>
+    <title type="text">Best Outdoor Gear for Spring 2013. Part 2 / 3 - Hardgoods</title>
+    <content type="html">EpicTV dropped in on the biggest outdoor trade show in Europe to give our viewers a sneak peak at the best climbing, trail running, hiking and camping gear for spring 2013. Part 2 of this 3-part series features hardgoods. Part 1 is softgoods and Part 3 will show footwear.</content>
+    <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="alternate" href="http://vimeo.com/46465858" atommedia1:width="1280" atommedia1:height="720" atommedia1:duration="2014"/>
+    <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="preview" type="image/jpeg" href="http://b.vimeocdn.com/ts/323/605/323605797_100.jpg" atommedia1:width="100" atommedia1:height="75"/>
+    <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="enclosure" href="http://vimeo.com/moogaloop.swf?clip_id=46465858" atommedia1:duration="2014"/>
+    <category term="Salomon"/>
+    <category term="Salewa"/>
+    <category term="Soto"/>
+    <category term="Primus"/>
+    <category term="Osprey"/>
+    <category term="Arc'teryx"/>
+    <category term="Black Diamond"/>
+    <category term="Petzl"/>
+    <category term="Sea to Summit"/>
+    <category term="Mammut"/>
+    <category term="Bergans"/>
+    <category term="North Face"/>
+    <category term="Blue Ice"/>
+    <category term="Vaude"/>
+    <gnip:statistics xmlns:gnip="http://www.gnip.com/schemas/2010" favoriteCount="2" viewCount="73"/>
+  </activity:object>
+  <author>
+    <name>EpicTVAdventure</name>
+    <uri>http://vimeo.com/epictvadventure</uri>
+  </author>
+  <activity:actor xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+    <link rel="alternate" type="text/html" href="http://vimeo.com/epictvadventure"/>
+    <id>http://vimeo.com/epictvadventure</id>
+  </activity:actor>
+  <gnip:matching_rules>
+    <gnip:matching_rule rel="source">Salomon</gnip:matching_rule>
+  </gnip:matching_rules>
+</entry>
+
+<entry xmlns:gnip="http://www.gnip.com/schemas/2010" xmlns="http://www.w3.org/2005/Atom">
+  <id>46467429</id>
+  <published>2012-07-26 22:39:53</published>
+  <updated>2012-07-26 22:39:53</updated>
+  <title type="html">EpicTVAdventure posted a video to Vimeo</title>
+  <category term="VideoPosted" label="Video Posted"/>
+  <summary type="html">Best Outdoor Gear for Spring 2013. Part 3 / 3 - Footwear</summary>
+  <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="alternate" href="http://vimeo.com/46467429" atommedia1:width="1280" atommedia1:height="720" atommedia1:duration="949"/>
+  <source>
+    <link rel="self" href="http://vimeo.com/api/rest/v2?method=vimeo.videos.getByTag&amp;full_response=1&amp;tag=North%20Face&amp;sort=newest"/>
+    <title>Vimeo - Tag - Search - North Face</title>
+    <updated>2012-07-27T15-51-35Z</updated>
+    <gnip:rule xmlns:gnip="http://www.gnip.com/schemas/2010">North Face</gnip:rule>
+  </source>
+  <service:provider xmlns:service="http://activitystrea.ms/service-provider" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss" xmlns:atommedia="http://purl.org/syndication/atommedia" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:georss="http://www.georss.org/georss" xmlns:gnip="http://www.gnip.com/schemas/2010" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dm="http://www.dailymotion.com/dmrss">
+    <name>Vimeo</name>
+    <uri>http://www.vimeo.com/</uri>
+    <icon/>
+  </service:provider>
+  <activity:verb xmlns:activity="http://activitystrea.ms/spec/1.0/">http://activitystrea.ms/schema/1.0/post</activity:verb>
+  <activity:object xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:object-type>http://activitystrea.ms/schema/1.0/video</activity:object-type>
+    <id>object:46467429</id>
+    <title type="text">Best Outdoor Gear for Spring 2013. Part 3 / 3 - Footwear</title>
+    <content type="html">EpicTV dropped in on the biggest outdoor trade show in Europe to give our viewers a sneak peak at the best climbing, trail running, hiking and camping gear for spring 2013. Part 3 of this 3-part series features footwear. Part 1 is softgoods and Part 2 is hardgoods.</content>
+    <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="alternate" href="http://vimeo.com/46467429" atommedia1:width="1280" atommedia1:height="720" atommedia1:duration="949"/>
+    <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="preview" type="image/jpeg" href="http://b.vimeocdn.com/ts/323/613/323613910_100.jpg" atommedia1:width="100" atommedia1:height="75"/>
+    <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="enclosure" href="http://vimeo.com/moogaloop.swf?clip_id=46467429" atommedia1:duration="949"/>
+    <category term="Salomon"/>
+    <category term="Salewa"/>
+    <category term="La Sportiva"/>
+    <category term="Scott"/>
+    <category term="North Face"/>
+    <category term="Fiveten"/>
+    <category term="Adidas"/>
+    <gnip:statistics xmlns:gnip="http://www.gnip.com/schemas/2010" favoriteCount="2" viewCount="23"/>
+  </activity:object>
+  <author>
+    <name>EpicTVAdventure</name>
+    <uri>http://vimeo.com/epictvadventure</uri>
+  </author>
+  <activity:actor xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+    <link rel="alternate" type="text/html" href="http://vimeo.com/epictvadventure"/>
+    <id>http://vimeo.com/epictvadventure</id>
+  </activity:actor>
+  <gnip:matching_rules>
+    <gnip:matching_rule rel="source">North Face</gnip:matching_rule>
+  </gnip:matching_rules>
+</entry>
+
+<entry xmlns:gnip="http://www.gnip.com/schemas/2010" xmlns="http://www.w3.org/2005/Atom">
+  <id>46465858</id>
+  <published>2012-07-26 21:56:20</published>
+  <updated>2012-07-26 21:56:20</updated>
+  <title type="html">EpicTVAdventure posted a video to Vimeo</title>
+  <category term="VideoPosted" label="Video Posted"/>
+  <summary type="html">Best Outdoor Gear for Spring 2013. Part 2 / 3 - Hardgoods</summary>
+  <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="alternate" href="http://vimeo.com/46465858" atommedia1:width="1280" atommedia1:height="720" atommedia1:duration="2014"/>
+  <source>
+    <link rel="self" href="http://vimeo.com/api/rest/v2?method=vimeo.videos.getByTag&amp;full_response=1&amp;tag=North%20Face&amp;sort=newest"/>
+    <title>Vimeo - Tag - Search - North Face</title>
+    <updated>2012-07-27T15-29-52Z</updated>
+    <gnip:rule xmlns:gnip="http://www.gnip.com/schemas/2010">North Face</gnip:rule>
+  </source>
+  <service:provider xmlns:service="http://activitystrea.ms/service-provider" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss" xmlns:atommedia="http://purl.org/syndication/atommedia" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:georss="http://www.georss.org/georss" xmlns:gnip="http://www.gnip.com/schemas/2010" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dm="http://www.dailymotion.com/dmrss">
+    <name>Vimeo</name>
+    <uri>http://www.vimeo.com/</uri>
+    <icon/>
+  </service:provider>
+  <activity:verb xmlns:activity="http://activitystrea.ms/spec/1.0/">http://activitystrea.ms/schema/1.0/post</activity:verb>
+  <activity:object xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:object-type>http://activitystrea.ms/schema/1.0/video</activity:object-type>
+    <id>object:46465858</id>
+    <title type="text">Best Outdoor Gear for Spring 2013. Part 2 / 3 - Hardgoods</title>
+    <content type="html">EpicTV dropped in on the biggest outdoor trade show in Europe to give our viewers a sneak peak at the best climbing, trail running, hiking and camping gear for spring 2013. Part 2 of this 3-part series features hardgoods. Part 1 is softgoods and Part 3 will show footwear.</content>
+    <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="alternate" href="http://vimeo.com/46465858" atommedia1:width="1280" atommedia1:height="720" atommedia1:duration="2014"/>
+    <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="preview" type="image/jpeg" href="http://b.vimeocdn.com/ts/323/605/323605797_100.jpg" atommedia1:width="100" atommedia1:height="75"/>
+    <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="enclosure" href="http://vimeo.com/moogaloop.swf?clip_id=46465858" atommedia1:duration="2014"/>
+    <category term="Salomon"/>
+    <category term="Salewa"/>
+    <category term="Soto"/>
+    <category term="Primus"/>
+    <category term="Osprey"/>
+    <category term="Arc'teryx"/>
+    <category term="Black Diamond"/>
+    <category term="Petzl"/>
+    <category term="Sea to Summit"/>
+    <category term="Mammut"/>
+    <category term="Bergans"/>
+    <category term="North Face"/>
+    <category term="Blue Ice"/>
+    <category term="Vaude"/>
+    <gnip:statistics xmlns:gnip="http://www.gnip.com/schemas/2010" favoriteCount="2" viewCount="72"/>
+  </activity:object>
+  <author>
+    <name>EpicTVAdventure</name>
+    <uri>http://vimeo.com/epictvadventure</uri>
+  </author>
+  <activity:actor xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+    <link rel="alternate" type="text/html" href="http://vimeo.com/epictvadventure"/>
+    <id>http://vimeo.com/epictvadventure</id>
+  </activity:actor>
+  <gnip:matching_rules>
+    <gnip:matching_rule rel="source">North Face</gnip:matching_rule>
+  </gnip:matching_rules>
+</entry>
+
+<entry xmlns:gnip="http://www.gnip.com/schemas/2010" xmlns="http://www.w3.org/2005/Atom">
+  <id>46467429</id>
+  <published>2012-07-26 22:39:53</published>
+  <updated>2012-07-26 22:39:53</updated>
+  <title type="html">EpicTVAdventure posted a video to Vimeo</title>
+  <category term="VideoPosted" label="Video Posted"/>
+  <summary type="html">Best Outdoor Gear for Spring 2013. Part 3 / 3 - Footwear</summary>
+  <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="alternate" href="http://vimeo.com/46467429" atommedia1:width="1280" atommedia1:height="720" atommedia1:duration="949"/>
+  <source>
+    <link rel="self" href="http://vimeo.com/api/rest/v2?method=vimeo.videos.getByTag&amp;full_response=1&amp;tag=North%20Face&amp;sort=newest"/>
+    <title>Vimeo - Tag - Search - North Face</title>
+    <updated>2012-07-27T15-29-52Z</updated>
+    <gnip:rule xmlns:gnip="http://www.gnip.com/schemas/2010">North Face</gnip:rule>
+  </source>
+  <service:provider xmlns:service="http://activitystrea.ms/service-provider" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss" xmlns:atommedia="http://purl.org/syndication/atommedia" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:georss="http://www.georss.org/georss" xmlns:gnip="http://www.gnip.com/schemas/2010" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dm="http://www.dailymotion.com/dmrss">
+    <name>Vimeo</name>
+    <uri>http://www.vimeo.com/</uri>
+    <icon/>
+  </service:provider>
+  <activity:verb xmlns:activity="http://activitystrea.ms/spec/1.0/">http://activitystrea.ms/schema/1.0/post</activity:verb>
+  <activity:object xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:object-type>http://activitystrea.ms/schema/1.0/video</activity:object-type>
+    <id>object:46467429</id>
+    <title type="text">Best Outdoor Gear for Spring 2013. Part 3 / 3 - Footwear</title>
+    <content type="html">EpicTV dropped in on the biggest outdoor trade show in Europe to give our viewers a sneak peak at the best climbing, trail running, hiking and camping gear for spring 2013. Part 3 of this 3-part series features footwear. Part 1 is softgoods and Part 2 is hardgoods.</content>
+    <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="alternate" href="http://vimeo.com/46467429" atommedia1:width="1280" atommedia1:height="720" atommedia1:duration="949"/>
+    <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="preview" type="image/jpeg" href="http://b.vimeocdn.com/ts/323/613/323613910_100.jpg" atommedia1:width="100" atommedia1:height="75"/>
+    <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="enclosure" href="http://vimeo.com/moogaloop.swf?clip_id=46467429" atommedia1:duration="949"/>
+    <category term="Salomon"/>
+    <category term="Salewa"/>
+    <category term="La Sportiva"/>
+    <category term="Scott"/>
+    <category term="North Face"/>
+    <category term="Fiveten"/>
+    <category term="Adidas"/>
+    <gnip:statistics xmlns:gnip="http://www.gnip.com/schemas/2010" favoriteCount="2" viewCount="22"/>
+  </activity:object>
+  <author>
+    <name>EpicTVAdventure</name>
+    <uri>http://vimeo.com/epictvadventure</uri>
+  </author>
+  <activity:actor xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+    <link rel="alternate" type="text/html" href="http://vimeo.com/epictvadventure"/>
+    <id>http://vimeo.com/epictvadventure</id>
+  </activity:actor>
+  <gnip:matching_rules>
+    <gnip:matching_rule rel="source">North Face</gnip:matching_rule>
+  </gnip:matching_rules>
+</entry>
+
+<entry xmlns:gnip="http://www.gnip.com/schemas/2010" xmlns="http://www.w3.org/2005/Atom">
+  <id>46467429</id>
+  <published>2012-07-26 22:39:53</published>
+  <updated>2012-07-26 22:39:53</updated>
+  <title type="html">EpicTVAdventure posted a video to Vimeo</title>
+  <category term="VideoPosted" label="Video Posted"/>
+  <summary type="html">Best Outdoor Gear for Spring 2013. Part 3 / 3 - Footwear</summary>
+  <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="alternate" href="http://vimeo.com/46467429" atommedia1:width="1280" atommedia1:height="720" atommedia1:duration="949"/>
+  <source>
+    <link rel="self" href="http://vimeo.com/api/rest/v2?method=vimeo.videos.getByTag&amp;full_response=1&amp;tag=North%20Face&amp;sort=newest"/>
+    <title>Vimeo - Tag - Search - North Face</title>
+    <updated>2012-07-26T23-36-36Z</updated>
+    <gnip:rule xmlns:gnip="http://www.gnip.com/schemas/2010">North Face</gnip:rule>
+  </source>
+  <service:provider xmlns:service="http://activitystrea.ms/service-provider" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss" xmlns:atommedia="http://purl.org/syndication/atommedia" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:georss="http://www.georss.org/georss" xmlns:gnip="http://www.gnip.com/schemas/2010" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dm="http://www.dailymotion.com/dmrss">
+    <name>Vimeo</name>
+    <uri>http://www.vimeo.com/</uri>
+    <icon/>
+  </service:provider>
+  <activity:verb xmlns:activity="http://activitystrea.ms/spec/1.0/">http://activitystrea.ms/schema/1.0/post</activity:verb>
+  <activity:object xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:object-type>http://activitystrea.ms/schema/1.0/video</activity:object-type>
+    <id>object:46467429</id>
+    <title type="text">Best Outdoor Gear for Spring 2013. Part 3 / 3 - Footwear</title>
+    <content type="html">EpicTV dropped in on the biggest outdoor trade show in Europe to give our viewers a sneak peak at the best climbing, trail running, hiking and camping gear for spring 2013. Part 3 of this 3-part series features footwear. Part 1 is softgoods and Part 2 is hardgoods.</content>
+    <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="alternate" href="http://vimeo.com/46467429" atommedia1:width="1280" atommedia1:height="720" atommedia1:duration="949"/>
+    <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="preview" type="image/jpeg" href="http://b.vimeocdn.com/ts/323/613/323613910_100.jpg" atommedia1:width="100" atommedia1:height="75"/>
+    <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="enclosure" href="http://vimeo.com/moogaloop.swf?clip_id=46467429" atommedia1:duration="949"/>
+    <category term="Salomon"/>
+    <category term="Salewa"/>
+    <category term="La Sportiva"/>
+    <category term="Scott"/>
+    <category term="North Face"/>
+    <category term="Fiveten"/>
+    <category term="Adidas"/>
+    <gnip:statistics xmlns:gnip="http://www.gnip.com/schemas/2010" favoriteCount="1" viewCount="0"/>
+  </activity:object>
+  <author>
+    <name>EpicTVAdventure</name>
+    <uri>http://vimeo.com/epictvadventure</uri>
+  </author>
+  <activity:actor xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+    <link rel="alternate" type="text/html" href="http://vimeo.com/epictvadventure"/>
+    <id>http://vimeo.com/epictvadventure</id>
+  </activity:actor>
+  <gnip:matching_rules>
+    <gnip:matching_rule rel="source">North Face</gnip:matching_rule>
+  </gnip:matching_rules>
+</entry>
+
+<entry xmlns:gnip="http://www.gnip.com/schemas/2010" xmlns="http://www.w3.org/2005/Atom">
+  <id>46467429</id>
+  <published>2012-07-26 22:39:53</published>
+  <updated>2012-07-26 22:39:53</updated>
+  <title type="html">EpicTVAdventure posted a video to Vimeo</title>
+  <category term="VideoPosted" label="Video Posted"/>
+  <summary type="html">Best Outdoor Gear for Spring 2013. Part 3 / 3 - Footwear</summary>
+  <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="alternate" href="http://vimeo.com/46467429" atommedia1:width="1280" atommedia1:height="720" atommedia1:duration="949"/>
+  <source>
+    <link rel="self" href="http://vimeo.com/api/rest/v2?method=vimeo.videos.getByTag&amp;full_response=1&amp;tag=Salomon&amp;sort=newest"/>
+    <title>Vimeo - Tag - Search - Salomon</title>
+    <updated>2012-07-26T21-19-00Z</updated>
+    <gnip:rule xmlns:gnip="http://www.gnip.com/schemas/2010">Salomon</gnip:rule>
+  </source>
+  <service:provider xmlns:service="http://activitystrea.ms/service-provider" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss" xmlns:atommedia="http://purl.org/syndication/atommedia" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:georss="http://www.georss.org/georss" xmlns:gnip="http://www.gnip.com/schemas/2010" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dm="http://www.dailymotion.com/dmrss">
+    <name>Vimeo</name>
+    <uri>http://www.vimeo.com/</uri>
+    <icon/>
+  </service:provider>
+  <activity:verb xmlns:activity="http://activitystrea.ms/spec/1.0/">http://activitystrea.ms/schema/1.0/post</activity:verb>
+  <activity:object xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:object-type>http://activitystrea.ms/schema/1.0/video</activity:object-type>
+    <id>object:46467429</id>
+    <title type="text">Best Outdoor Gear for Spring 2013. Part 3 / 3 - Footwear</title>
+    <content type="html">EpicTV dropped in on the biggest outdoor trade show in Europe to give our viewers a sneak peak at the best climbing, trail running, hiking and camping gear for spring 2013. Part 3 of this 3-part series features footwear. Part 1 is softgoods and Part 2 is hardgoods.</content>
+    <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="alternate" href="http://vimeo.com/46467429" atommedia1:width="1280" atommedia1:height="720" atommedia1:duration="949"/>
+    <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="preview" type="image/jpeg" href="http://b.vimeocdn.com/ts/323/613/323613910_100.jpg" atommedia1:width="100" atommedia1:height="75"/>
+    <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="enclosure" href="http://vimeo.com/moogaloop.swf?clip_id=46467429" atommedia1:duration="949"/>
+    <category term="Salomon"/>
+    <category term="Salewa"/>
+    <category term="La Sportiva"/>
+    <category term="Scott"/>
+    <category term="North Face"/>
+    <category term="Fiveten"/>
+    <category term="Adidas"/>
+    <gnip:statistics xmlns:gnip="http://www.gnip.com/schemas/2010" favoriteCount="0" viewCount="0"/>
+  </activity:object>
+  <author>
+    <name>EpicTVAdventure</name>
+    <uri>http://vimeo.com/epictvadventure</uri>
+  </author>
+  <activity:actor xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+    <link rel="alternate" type="text/html" href="http://vimeo.com/epictvadventure"/>
+    <id>http://vimeo.com/epictvadventure</id>
+  </activity:actor>
+  <gnip:matching_rules>
+    <gnip:matching_rule rel="source">Salomon</gnip:matching_rule>
+  </gnip:matching_rules>
+</entry>
+
+<entry xmlns:gnip="http://www.gnip.com/schemas/2010" xmlns="http://www.w3.org/2005/Atom">
+  <id>46465858</id>
+  <published>2012-07-26 21:56:20</published>
+  <updated>2012-07-26 21:56:20</updated>
+  <title type="html">EpicTVAdventure posted a video to Vimeo</title>
+  <category term="VideoPosted" label="Video Posted"/>
+  <summary type="html">Best Outdoor Gear for Spring 2013. Part 2 / 3 - Hardgoods</summary>
+  <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="alternate" href="http://vimeo.com/46465858" atommedia1:width="1280" atommedia1:height="720" atommedia1:duration="2014.04"/>
+  <source>
+    <link rel="self" href="http://vimeo.com/api/rest/v2?method=vimeo.videos.getByTag&amp;full_response=1&amp;tag=North%20Face&amp;sort=newest"/>
+    <title>Vimeo - Tag - Search - North Face</title>
+    <updated>2012-07-26T21-15-52Z</updated>
+    <gnip:rule xmlns:gnip="http://www.gnip.com/schemas/2010">North Face</gnip:rule>
+  </source>
+  <service:provider xmlns:service="http://activitystrea.ms/service-provider" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss" xmlns:atommedia="http://purl.org/syndication/atommedia" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:georss="http://www.georss.org/georss" xmlns:gnip="http://www.gnip.com/schemas/2010" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dm="http://www.dailymotion.com/dmrss">
+    <name>Vimeo</name>
+    <uri>http://www.vimeo.com/</uri>
+    <icon/>
+  </service:provider>
+  <activity:verb xmlns:activity="http://activitystrea.ms/spec/1.0/">http://activitystrea.ms/schema/1.0/post</activity:verb>
+  <activity:object xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:object-type>http://activitystrea.ms/schema/1.0/video</activity:object-type>
+    <id>object:46465858</id>
+    <title type="text">Best Outdoor Gear for Spring 2013. Part 2 / 3 - Hardgoods</title>
+    <content type="html">EpicTV dropped in on the biggest outdoor trade show in Europe to give our viewers a sneak peak at the best climbing, trail running, hiking and camping gear for spring 2013. Part 2 of this 3-part series features hardgoods. Part 1 is softgoods and Part 3 will show footwear.</content>
+    <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="alternate" href="http://vimeo.com/46465858" atommedia1:width="1280" atommedia1:height="720" atommedia1:duration="2014.04"/>
+    <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="preview" type="image/jpeg" href="http://b.vimeocdn.com/ts/323/605/323605797_100.jpg" atommedia1:width="100" atommedia1:height="75"/>
+    <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="enclosure" href="http://vimeo.com/moogaloop.swf?clip_id=46465858" atommedia1:duration="2014.04"/>
+    <category term="Salomon"/>
+    <category term="Salewa"/>
+    <category term="Soto"/>
+    <category term="Primus"/>
+    <category term="Osprey"/>
+    <category term="Arc'teryx"/>
+    <category term="Black Diamond"/>
+    <category term="Petzl"/>
+    <category term="Sea to Summit"/>
+    <category term="Mammut"/>
+    <category term="Bergans"/>
+    <category term="North Face"/>
+    <category term="Blue Ice"/>
+    <category term="Vaude"/>
+    <gnip:statistics xmlns:gnip="http://www.gnip.com/schemas/2010" favoriteCount="0" viewCount="0"/>
+  </activity:object>
+  <author>
+    <name>EpicTVAdventure</name>
+    <uri>http://vimeo.com/epictvadventure</uri>
+  </author>
+  <activity:actor xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+    <link rel="alternate" type="text/html" href="http://vimeo.com/epictvadventure"/>
+    <id>http://vimeo.com/epictvadventure</id>
+  </activity:actor>
+  <gnip:matching_rules>
+    <gnip:matching_rule rel="source">North Face</gnip:matching_rule>
+  </gnip:matching_rules>
+</entry>
+
+<entry xmlns:gnip="http://www.gnip.com/schemas/2010" xmlns="http://www.w3.org/2005/Atom">
+  <id>46467429</id>
+  <published>2012-07-26 22:39:53</published>
+  <updated>2012-07-26 22:39:53</updated>
+  <title type="html">EpicTVAdventure posted a video to Vimeo</title>
+  <category term="VideoPosted" label="Video Posted"/>
+  <summary type="html">Best Outdoor Gear for Spring 2013. Part 3 / 3 - Footwear</summary>
+  <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="alternate" href="http://vimeo.com/46467429" atommedia1:width="1280" atommedia1:height="720" atommedia1:duration="949.28"/>
+  <source>
+    <link rel="self" href="http://vimeo.com/api/rest/v2?method=vimeo.videos.getByTag&amp;full_response=1&amp;tag=Salomon&amp;sort=newest"/>
+    <title>Vimeo - Tag - Search - Salomon</title>
+    <updated>2012-07-26T20-50-18Z</updated>
+    <gnip:rule xmlns:gnip="http://www.gnip.com/schemas/2010">Salomon</gnip:rule>
+  </source>
+  <service:provider xmlns:service="http://activitystrea.ms/service-provider" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss" xmlns:atommedia="http://purl.org/syndication/atommedia" xmlns:activity="http://activitystrea.ms/spec/1.0/" xmlns:georss="http://www.georss.org/georss" xmlns:gnip="http://www.gnip.com/schemas/2010" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dm="http://www.dailymotion.com/dmrss">
+    <name>Vimeo</name>
+    <uri>http://www.vimeo.com/</uri>
+    <icon/>
+  </service:provider>
+  <activity:verb xmlns:activity="http://activitystrea.ms/spec/1.0/">http://activitystrea.ms/schema/1.0/post</activity:verb>
+  <activity:object xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:object-type>http://activitystrea.ms/schema/1.0/video</activity:object-type>
+    <id>object:46467429</id>
+    <title type="text">Best Outdoor Gear for Spring 2013. Part 3 / 3 - Footwear</title>
+    <content type="html">EpicTV dropped in on the biggest outdoor trade show in Europe to give our viewers a sneak peak at the best climbing, trail running, hiking and camping gear for spring 2013. Part 3 of this 3-part series features footwear. Part 1 is softgoods and Part 2 is hardgoods.</content>
+    <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="alternate" href="http://vimeo.com/46467429" atommedia1:width="1280" atommedia1:height="720" atommedia1:duration="949.28"/>
+    <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="preview" type="image/jpeg" href="http://b.vimeocdn.com/ts/323/613/323613910_100.jpg" atommedia1:width="100" atommedia1:height="75"/>
+    <link xmlns:atommedia1="http://purl.org/syndication/atommedia" rel="enclosure" href="http://vimeo.com/moogaloop.swf?clip_id=46467429" atommedia1:duration="949.28"/>
+    <category term="Salomon"/>
+    <category term="Salewa"/>
+    <category term="La Sportiva"/>
+    <category term="Scott"/>
+    <category term="North Face"/>
+    <category term="Fiveten"/>
+    <category term="Adidas"/>
+    <gnip:statistics xmlns:gnip="http://www.gnip.com/schemas/2010" favoriteCount="0" viewCount="0"/>
+  </activity:object>
+  <author>
+    <name>EpicTVAdventure</name>
+    <uri>http://vimeo.com/epictvadventure</uri>
+  </author>
+  <activity:actor xmlns:activity="http://activitystrea.ms/spec/1.0/">
+    <activity:object-type>http://activitystrea.ms/schema/1.0/person</activity:object-type>
+    <link rel="alternate" type="text/html" href="http://vimeo.com/epictvadventure"/>
+    <id>http://vimeo.com/epictvadventure</id>
+  </activity:actor>
+  <gnip:matching_rules>
+    <gnip:matching_rule rel="source">Salomon</gnip:matching_rule>
+  </gnip:matching_rules>
+</entry>
+
+</results>
