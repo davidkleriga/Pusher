@@ -24,11 +24,11 @@ class GnipXml
     def entry(data)
         doc = Parser::Document.new data
         {
-            author: doc.node_value('author'),
-            content: doc.node_value('content'),
-            title: doc.node_value('title'),
-            date: doc.node_value('created'),
-            uri: doc.node_value('uri')
+            :author => doc.node_value('author'),
+            :content => doc.node_value('content'),
+            :title => doc.node_value('title'),
+            :date => doc.node_value('created'),
+            :uri => doc.node_value('uri')
         }
     end
 end
